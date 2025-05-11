@@ -36,16 +36,16 @@ Below are some screenshots of the application interface.
    cd KhadmaAI
 Install dependencies:
 
-bash
 npm install
+
 Start the development server:
 
-bash
 npm run dev
+
 Open your browser and visit:
 
-Code
 http://localhost:3000
+
 🤝 Contributing
 We welcome contributions to make KhadmaAI even better! Here's how you can contribute:
 
