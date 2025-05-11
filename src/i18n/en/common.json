@@ -1,0 +1,121 @@
+
+{
+  "app": {
+    "name": "KhadmaAI",
+    "tagline": "Smart Skill-to-Work Platform"
+  },
+  "nav": {
+    "home": "Home",
+    "dashboard": "Dashboard",
+    "quests": "Quests",
+    "tasks": "Tasks",
+    "interview": "Interview Simulator",
+    "profile": "Profile",
+    "login": "Login",
+    "signup": "Sign Up",
+    "logout": "Logout"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Password",
+    "confirmPassword": "Confirm Password",
+    "displayName": "Display Name",
+    "login": "Login",
+    "signup": "Sign Up",
+    "continueWithGoogle": "Continue with Google",
+    "noAccount": "Don't have an account?",
+    "haveAccount": "Already have an account?",
+    "forgotPassword": "Forgot password?"
+  },
+  "home": {
+    "hero": {
+      "title": "Turn Your Skills Into Opportunities",
+      "subtitle": "KhadmaAI analyzes your profile, suggests skills to develop, and matches you with paid tasks.",
+      "cta": "Get Started"
+    },
+    "features": {
+      "title": "How It Works",
+      "parser": {
+        "title": "AI-Powered Profile Analysis",
+        "description": "Upload your CV or link social profiles to discover your skills and growth opportunities."
+      },
+      "quests": {
+        "title": "Skill Development Quests",
+        "description": "Complete personalized quests to fill skill gaps and unlock new opportunities."
+      },
+      "tasks": {
+        "title": "Matched Micro-Jobs",
+        "description": "Get matched with real paid tasks based on your proven skills and completed quests."
+      },
+      "simulator": {
+        "title": "Interview Practice",
+        "description": "Prepare for job interviews with our AI-powered interview simulator."
+      }
+    }
+  },
+  "dashboard": {
+    "welcome": "Welcome back",
+    "stats": {
+      "completedQuests": "Completed Quests",
+      "matchedTasks": "Matched Tasks",
+      "earnedBadges": "Earned Badges"
+    },
+    "nextSteps": "Next Steps",
+    "recommendations": "Recommended Quests"
+  },
+  "profile": {
+    "title": "My Profile",
+    "upload": {
+      "cv": "Upload CV",
+      "voice": "Record Voice Pitch",
+      "photo": "Upload Profile Photo"
+    },
+    "links": {
+      "linkedin": "LinkedIn URL",
+      "github": "GitHub URL"
+    },
+    "skills": "Skills",
+    "experience": "Experience",
+    "save": "Save Changes"
+  },
+  "quests": {
+    "title": "Skill Quests",
+    "filter": "Filter by",
+    "difficulty": "Difficulty",
+    "category": "Category",
+    "status": "Status",
+    "start": "Start Quest",
+    "continue": "Continue",
+    "completed": "Completed"
+  },
+  "tasks": {
+    "title": "Available Tasks",
+    "filter": "Filter by",
+    "category": "Category",
+    "budget": "Budget",
+    "apply": "Apply",
+    "submit": "Submit Work",
+    "applied": "Applied"
+  },
+  "interview": {
+    "title": "Interview Simulator",
+    "start": "Start Interview",
+    "stop": "Stop Recording",
+    "analyzing": "Analyzing your answers...",
+    "feedback": "AI Feedback",
+    "tryAgain": "Try Again"
+  },
+  "footer": {
+    "rights": "All rights reserved",
+    "privacy": "Privacy Policy",
+    "terms": "Terms of Service",
+    "contact": "Contact Us"
+  },
+  "errors": {
+    "required": "This field is required",
+    "email": "Please enter a valid email",
+    "passwordMatch": "Passwords do not match",
+    "minLength": "Must be at least {{min}} characters",
+    "default": "Something went wrong"
+  }
+}

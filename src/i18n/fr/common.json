@@ -1,0 +1,121 @@
+
+{
+  "app": {
+    "name": "KhadmaAI",
+    "tagline": "Plateforme Intelligente de Compétences-vers-Travail"
+  },
+  "nav": {
+    "home": "Accueil",
+    "dashboard": "Tableau de bord",
+    "quests": "Quêtes",
+    "tasks": "Tâches",
+    "interview": "Simulateur d'entretien",
+    "profile": "Profil",
+    "login": "Connexion",
+    "signup": "S'inscrire",
+    "logout": "Déconnexion"
+  },
+  "auth": {
+    "email": "Email",
+    "password": "Mot de passe",
+    "confirmPassword": "Confirmer le mot de passe",
+    "displayName": "Nom d'utilisateur",
+    "login": "Se connecter",
+    "signup": "S'inscrire",
+    "continueWithGoogle": "Continuer avec Google",
+    "noAccount": "Vous n'avez pas de compte?",
+    "haveAccount": "Vous avez déjà un compte?",
+    "forgotPassword": "Mot de passe oublié?"
+  },
+  "home": {
+    "hero": {
+      "title": "Transformez vos compétences en opportunités",
+      "subtitle": "KhadmaAI analyse votre profil, suggère des compétences à développer et vous met en relation avec des tâches rémunérées.",
+      "cta": "Commencer"
+    },
+    "features": {
+      "title": "Comment ça marche",
+      "parser": {
+        "title": "Analyse de profil par IA",
+        "description": "Téléchargez votre CV ou liez vos profils sociaux pour découvrir vos compétences et opportunités de croissance."
+      },
+      "quests": {
+        "title": "Quêtes de développement de compétences",
+        "description": "Complétez des quêtes personnalisées pour combler les lacunes de compétences et débloquer de nouvelles opportunités."
+      },
+      "tasks": {
+        "title": "Micro-emplois correspondants",
+        "description": "Obtenez des tâches rémunérées correspondant à vos compétences prouvées et aux quêtes accomplies."
+      },
+      "simulator": {
+        "title": "Pratique d'entretien",
+        "description": "Préparez-vous aux entretiens d'embauche avec notre simulateur d'entretien alimenté par l'IA."
+      }
+    }
+  },
+  "dashboard": {
+    "welcome": "Bon retour",
+    "stats": {
+      "completedQuests": "Quêtes terminées",
+      "matchedTasks": "Tâches correspondantes",
+      "earnedBadges": "Badges gagnés"
+    },
+    "nextSteps": "Prochaines étapes",
+    "recommendations": "Quêtes recommandées"
+  },
+  "profile": {
+    "title": "Mon Profil",
+    "upload": {
+      "cv": "Télécharger CV",
+      "voice": "Enregistrer un pitch vocal",
+      "photo": "Télécharger photo de profil"
+    },
+    "links": {
+      "linkedin": "URL LinkedIn",
+      "github": "URL GitHub"
+    },
+    "skills": "Compétences",
+    "experience": "Expérience",
+    "save": "Enregistrer les modifications"
+  },
+  "quests": {
+    "title": "Quêtes de compétences",
+    "filter": "Filtrer par",
+    "difficulty": "Difficulté",
+    "category": "Catégorie",
+    "status": "Statut",
+    "start": "Commencer la quête",
+    "continue": "Continuer",
+    "completed": "Terminé"
+  },
+  "tasks": {
+    "title": "Tâches disponibles",
+    "filter": "Filtrer par",
+    "category": "Catégorie",
+    "budget": "Budget",
+    "apply": "Postuler",
+    "submit": "Soumettre le travail",
+    "applied": "Postulé"
+  },
+  "interview": {
+    "title": "Simulateur d'entretien",
+    "start": "Commencer l'entretien",
+    "stop": "Arrêter l'enregistrement",
+    "analyzing": "Analyse de vos réponses...",
+    "feedback": "Retour IA",
+    "tryAgain": "Réessayer"
+  },
+  "footer": {
+    "rights": "Tous droits réservés",
+    "privacy": "Politique de confidentialité",
+    "terms": "Conditions d'utilisation",
+    "contact": "Contactez-nous"
+  },
+  "errors": {
+    "required": "Ce champ est obligatoire",
+    "email": "Veuillez entrer un email valide",
+    "passwordMatch": "Les mots de passe ne correspondent pas",
+    "minLength": "Doit contenir au moins {{min}} caractères",
+    "default": "Une erreur s'est produite"
+  }
+}
