@@ -1,5 +1,8 @@
 # KhadmaAI
 
+🚧 **Project Status**
+This project is not completed. KhadmaAI is an MVP (Minimum Viable Product) that I developed during the **ENSET Hackathon 2025**. It serves as a prototype and is not intended for production use.
+
 > **KhadmaAI** is a cutting-edge platform powered by AI, designed to streamline and enhance your services. This repository contains the codebase for the KhadmaAI project, primarily written in TypeScript.
 
 ---
